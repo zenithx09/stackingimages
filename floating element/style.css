@@ -1,0 +1,25 @@
+.service{
+    float: left; 
+    margin-left: 10px;
+    
+}
+
+.heart_eyes{
+    width: 360px;
+}
+
+.box{
+    position:absolute;
+    left: 90px;
+    top:30px
+}
+
+body{
+    background-image: url(Screenshot\ 2023-09-16\ at\ 1.37.42\ AM.png);
+    background-attachment: fixed;
+    height: 720px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
